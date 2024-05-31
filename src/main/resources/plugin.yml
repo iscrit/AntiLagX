@@ -1,0 +1,4 @@
+name: antilag
+version: '${project.version}'
+main: org.critical.antilag.Antilag
+api-version: '1.20'
